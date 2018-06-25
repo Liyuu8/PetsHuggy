@@ -39,6 +39,8 @@ gem 'jquery-ui-rails'
 gem 'stripe'
 gem 'rest-client'
 
+# gem 'sprockets', '~> 4.0'
+
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
