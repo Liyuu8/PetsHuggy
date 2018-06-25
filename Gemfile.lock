@@ -738,7 +738,7 @@ GEM
       mime-types
       mimemagic (~> 0.3.0)
       terrapin (~> 0.6.0)
-    pg (1.0.0)
+    pg (0.21.0)
     rack (1.6.10)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -834,7 +834,7 @@ DEPENDENCIES
   jquery-ui-rails
   omniauth-facebook
   paperclip (~> 6.0.0)
-  pg
+  pg (~> 0.11)
   rails!
   rest-client
   sass-rails (~> 5.0)
