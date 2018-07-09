@@ -2,8 +2,8 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-# gem 'rails', '4.2.5'
-gem 'rails', github: 'rails/rails', branch: '4-2-stable'
+gem 'rails', '4.2.5'
+# gem 'rails', github: 'rails/rails', branch: '4-2-stable'
 # Use sqlite3 as the database for Active Record
 # gem 'sqlite3'
 # Use SCSS for stylesheets
@@ -38,6 +38,9 @@ gem 'geocoder'
 gem 'jquery-ui-rails'
 gem 'stripe'
 gem 'rest-client'
+gem 'private_pub'
+gem 'thin'
+gem 'ransack'
 
 # gem 'sprockets', '~> 4.0'
 
