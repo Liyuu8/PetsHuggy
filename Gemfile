@@ -39,7 +39,6 @@ gem 'jquery-ui-rails'
 gem 'stripe'
 gem 'rest-client'
 gem 'private_pub'
-gem 'thin'
 gem 'ransack'
 
 # gem 'sprockets', '~> 4.0'
